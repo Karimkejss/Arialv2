@@ -48,7 +48,7 @@ local MainTab = Window:CreateTab("Main", nil) -- Title, Image
 local autoClaimEnabled = false
 
 local Toggle = MainTab:CreateToggle({
-   Name = "Get Money and Items",
+   Name = "Inf Money And Items BY NYXOY",
    CurrentValue = false,
    Flag = "AutoClaimRewardToggle", -- Unique identifier for configuration saving
    Callback = function(Value)
